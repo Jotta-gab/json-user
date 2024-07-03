@@ -1,9 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "clients": [
+        {
+            "id": 1,
+            "name": "Carlos",
+            "email": "Carlos09@gmail.com",
+            "phone": "(31) 0000-1111",
+            "password": "carlos09"
+        },
+        {
+            "id": 2,
+            "name": "Ana Silva",
+            "email": "ana.silva@gmail.com",
+            "phone": "(31) 9999-2222",
+            "password": "ana123"
+        },
+        {
+            "id": 3,
+            "name": "João Pereira",
+            "email": "joao.pereira@gmail.com",
+            "phone": "(31) 8888-3333",
+            "password": "joao123"
+        }
+    ]
 }
